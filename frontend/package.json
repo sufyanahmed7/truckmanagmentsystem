@@ -1,0 +1,44 @@
+{
+  "name": "sufyan-task5-graphql",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.13.9",
+    "@auth0/nextjs-auth0": "^3.8.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.2.0",
+    "@mui/material": "^7.2.0",
+    "@mui/x-date-pickers": "^8.11.0",
+    "ag-grid-community": "^34.1.2",
+    "ag-grid-enterprise": "^34.1.2",
+    "ag-grid-react": "^34.1.2",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.18",
+    "formik": "^2.4.6",
+    "graphql": "^16.11.0",
+    "graphql-ws": "^6.0.6",
+    "mongoose": "^8.16.4",
+    "mui-tel-input": "^9.0.1",
+    "next": "15.3.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-phone-input-2": "^2.15.1",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "typescript": "^5"
+  }
+}
